@@ -9,7 +9,7 @@ MissionDef
     }
 	localization_id	"campaigns/survival/desert_for_top.campaign"
 
-	map_size        "12,3"
+	map_size        "8,3"
 
     biomes          "desert"
 	
